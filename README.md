@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on applications and maybe some ethical hacking tools eventually. I am still within my first year of coding so it may take a while to get to that point.
 - 📫 How to reach me through email: longbrycen8@gmail.com | LinkedIn: Brycen Long | Discord: No.im.dirty.dan | Slack: Brycen Long
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an artist and skater.
+⚡ Fun fact: I'm an artist and skater. I am also pursuing a Cyber Security Information Assurance AAS Major.
 
 <!---
 unkownuser666/unkownuser666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
